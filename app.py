@@ -132,7 +132,7 @@ st.markdown(
     """
     <div style='text-align: center; padding: 10px;'>
         <p style='font-size: 14px; color: #777;'>
-            Dikembangkan oleh <a href='#' style='color: #4CAF50;'>Tim Anda</a> • Hak Cipta &copy; 2025
+            Dikembangkan oleh <a href='#' style='color: #4CAF50;'>Arif Rahman</a> • 211220071 ; 2025
         </p>
     </div>
     """,
